@@ -1,0 +1,19 @@
+{
+  "name": "pc-lopal",
+  "version": "1.0.0",
+  "description": "Repositório para armazenar os códigos da aula.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinycosta-projects/pc-lopal.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kevinycosta-projects/pc-lopal/issues"
+  },
+  "homepage": "https://github.com/kevinycosta-projects/pc-lopal#readme"
+}
